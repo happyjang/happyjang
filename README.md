@@ -3,11 +3,17 @@
 👩🏻‍⌨️ I am passionate about creativity and collaboration for software development. Embracing this passion led me to graduate from a 1,000+ hour coding bootcamp, which focused on JavaScript, React, and Node.js. I am eager to bring my work ethic and team-first mentality to a collaborative, innovative engineering team, wherein I can continue to contribute on a high functioning, results-driven team.
 
 💡  Technologies I work with:
+
 ⭕️. Languages: HTML, CSS, JavaScript, ES6, C#
+
 ⭕️. Frameworks: Node.js, Express.js, MERN, .NET Core, ASP.NET
+
 ⭕️. Libraries: React, Redux, Entity Framework
+
 ⭕️. Cloud: AWS
+
 ⭕️. Database: MySQL, MongoDB
+
 ⭕️. CICD: GIT, GitHub, Heroku, REST
 
 Learn more about who I am. 🙋🏻
